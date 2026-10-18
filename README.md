@@ -1,4 +1,6 @@
-<h1 align="center">🚀 Data Science & AI Projects</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Data%20Science%20%26%20AI%20Projects&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=My%20Learning%20Journey%20in%20AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
   A growing portfolio of AI & Data Science projects — Machine Learning, Computer Vision, Generative AI, AI Agents, and Automation — built as part of my learning journey.
@@ -68,10 +70,14 @@ This repository is my personal learning portfolio. Each notebook is a hands-on p
 
 ## 👤 Author
 
-**Your Name**
+**Ahsanullah Ghani**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahsanullahghani000--png-181717?logo=github)](https://github.com/ahsanullahghani000-png)
 
 ---
 
 <p align="center">⭐ If you find this repository helpful, please give it a star! ⭐</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
